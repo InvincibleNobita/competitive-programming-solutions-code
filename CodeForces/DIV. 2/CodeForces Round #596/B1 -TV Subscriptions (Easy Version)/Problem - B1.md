@@ -1,0 +1,1 @@
+[Problem Statement -B1](https://codeforces.com/contest/1247/problem/B1 "B1 -TV Subscriptions (Easy Version)")

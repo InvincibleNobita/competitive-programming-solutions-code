@@ -1,0 +1,1 @@
+[Div. 2](https://codeforces.com/contest/1247 "Round #596 based on TechnoCup 2020 Elimination Round 2")

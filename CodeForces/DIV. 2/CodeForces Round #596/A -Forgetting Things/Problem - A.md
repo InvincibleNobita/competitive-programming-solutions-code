@@ -1,0 +1,1 @@
+[Problem Statement -A](https://codeforces.com/contest/1247/problem/A "A -Forgetting Things")

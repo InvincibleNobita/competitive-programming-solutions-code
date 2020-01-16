@@ -1,0 +1,1 @@
+[Div. 2](https://codeforces.com/contest/1244 "Round #592")

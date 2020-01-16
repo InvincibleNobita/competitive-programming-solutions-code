@@ -1,0 +1,1 @@
+[Problem Statement -A](https://codeforces.com/contest/1234/problem/A "A -Equalize Prices Again")

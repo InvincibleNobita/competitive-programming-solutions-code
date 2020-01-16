@@ -1,0 +1,1 @@
+[Problem Statement -A](https://codeforces.com/contest/1285/problem/A "A -Mezo Playing Zoma")
