@@ -1,0 +1,1 @@
+[Problem Statement -A](https://codeforces.com/contest/1294/problem/A "A. Collecting Coins")
